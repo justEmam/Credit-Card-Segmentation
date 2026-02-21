@@ -31,7 +31,7 @@ Credit Card Segmentation/
 
 1. Clone the repository:
 ```bash
-git clone <repo-url>
+git clone <https://github.com/justEmam/Credit-Card-Segmentation.git>
 cd "Credit Card Segmentation"
 ```
 
@@ -60,7 +60,3 @@ jupyter notebook
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request with improvements or bug fixes.
-
-## License
-
-Specify your license here (e.g., MIT License).
