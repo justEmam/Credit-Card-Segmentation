@@ -6,7 +6,7 @@ This project performs customer segmentation based on credit card data using mach
 
 - Data cleaning and preprocessing of credit card transaction data
 - Exploratory data analysis (EDA) with visualizations
-- Clustering algorithms (e.g., K-Means, Hierarchical Clustering)
+- Clustering algorithms (e.g., GMM, KMeans)
 - Model evaluation and interpretation
 - Interactive Jupyter Notebook for experimentation
 
@@ -15,8 +15,7 @@ This project performs customer segmentation based on credit card data using mach
 ```
 Credit Card Segmentation/
 ├── Credit Card Segmentation.ipynb   # Main notebook with analysis and modeling
-├── data/                            # (Optional) Dataset directory
-├── notebooks/                       # Additional notebooks if any
+├── data/                            # Dataset directory
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
 ```
