@@ -17,7 +17,8 @@ Credit Card Segmentation/
 ├── Credit Card Segmentation.ipynb   # Main notebook with analysis and modeling
 ├── data/                            # Dataset directory
 ├── requirements.txt                 # Python dependencies
-└── README.md                        # Project documentation
+└── README.md   
+├── MahmoudEmam_CreditCardReport               #Cluster Profiling PDF
 ```
 
 ## Getting Started
@@ -56,6 +57,8 @@ jupyter notebook
 2. Open `Credit Card Segmentation.ipynb` and run through the cells.
 
 3. Modify or extend clustering experiments as needed.
+
+
 
 ## Contributing
 
